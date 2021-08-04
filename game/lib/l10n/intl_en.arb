@@ -1,0 +1,16 @@
+{
+    "@@locale": "en_US",
+    "congratulations": "Congratulations",
+    "please_select_image_you_want_to_play": "Please select image you want to play",
+    "time_spend": "Time spend",
+    "play_again": "Play again",
+    "home_page": "Home page",
+    "select_difficulty": "Select difficulty",
+    "select_image_to_continue": "Select image to continue",
+    "select_image_and_level_to_start_the_game": "Select image and level to start the game",
+    "select_a_level_to_continue": "Select a level to continue",
+    "good_game": "Good game",
+    "time": "Time",
+    "items_left": "Items left",
+    "start": "Start"
+}
